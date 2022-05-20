@@ -1,0 +1,19 @@
+{
+  "LocalisationObject": [
+    {
+      "TextObject": {
+        "text": "PlayText",
+        "variants": [
+          {
+            "locale": "en",
+			"variant": "Play"
+          },
+          {
+            "locale": "ru",
+			"variant": "Играть"
+          }
+        ]
+      }
+    }
+  ]
+}
