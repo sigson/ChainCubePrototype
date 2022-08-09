@@ -1,3 +1,3 @@
 # ChainCubePrototype
 
-![Demo video](https://github.com/sigson/ChainCubePrototype/blob/main/demonstration.gif)
+![Demo video](https://github.com/blessomX/ChainCubePrototype/blob/main/demonstration.gif)
